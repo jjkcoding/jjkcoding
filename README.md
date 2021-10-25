@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jjkcoding
-- 👀 I’m interested in new ways of manipulating and creating models
+- 👀 I’m interested in new ways of manipulating and creating statistical models
 - 🌱 I’m currently learning Data Analytics, Data Science, and Machine Learning
 
 <!---
