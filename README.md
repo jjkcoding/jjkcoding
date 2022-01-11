@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joshua Kim
-- 👀 I’m interested in new ways of creating data visualizations and models
+- 👀 I’m interested in learning new data analytic methods, data visualization methods and data manipulation methods
 - 🌱 I’m currently learning Data Analytics, Data Science, and Machine Learning
 
 <!---
